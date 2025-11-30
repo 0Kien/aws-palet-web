@@ -13,4 +13,4 @@ JavaScript for interactions
 
 Setup
 
-Open AWS folder then open index.html in any browser to run the site.
+Open index.html in any browser to run the site.
